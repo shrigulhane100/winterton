@@ -3,7 +3,6 @@ Quiz Master is an exam preparation platform featuring multi-user support with di
 admin and user roles. The app enables administrators to manage subjects, chapters, 
 quizzes, and questions, while users register, take quizzes, and view performance. 
 
-[Demo Video](https://www.youtube.com/watch?v=mwtzdHB95WI) on Youtube
 
 ### Technologies Used 
 - VueJS & Bootstrap: Frontend frameworks for a responsive and unified UI. 
