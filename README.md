@@ -21,6 +21,14 @@ quizzes, and questions, while users register, take quizzes, and view performance
 
 ---
 
+## Database Design
+
+![db1](https://github.com/shrigulhane100/winterton/blob/main/sceenshots/Screenshot%202026-01-12%20112935.png)
+
+![db2](https://github.com/shrigulhane100/winterton/blob/main/sceenshots/Screenshot%202026-01-12%20112955.png)
+
+--
+
 ## API Design 
 The project implements flask api endpoints for: 
 - Authentication: User registration and login (with role management). 
