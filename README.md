@@ -17,9 +17,9 @@ quizzes, and questions, while users register, take quizzes, and view performance
 
 ## Platform Wireframe
 
-[Wireframe](sceenshots\Quiz_master wired frame.png)
+![Wireframe](sceenshots\Quiz_master wired frame.png)
 
-
+---
 
 ## API Design 
 The project implements flask api endpoints for: 
