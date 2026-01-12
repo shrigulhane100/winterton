@@ -17,7 +17,7 @@ quizzes, and questions, while users register, take quizzes, and view performance
 
 ## Platform Wireframe
 
-![Wireframe](sceenshots\Quiz_master wired frame.png)
+![Wireframe](https://github.com/shrigulhane100/winterton/blob/main/sceenshots/Quiz_master%20wired%20frame.png)
 
 ---
 
